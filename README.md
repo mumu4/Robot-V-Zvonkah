@@ -3,6 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
 
 Этот проект реализует обучение модели машинного обучения для классификации аудио на человеческую речь и машинно-синтезированную речь.
+[Ссылка на веб-приложение на Flask с данной моделью](https://github.com/olesiakazakova/Robot-V-Zvonkah/tree/main)
 
 ## Требования
 
